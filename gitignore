@@ -1,0 +1,116 @@
+
+# Build results
+[Bb]in/
+[Oo]bj/
+*.dll
+*.exe
+*.pdb
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Office VSTO specific
+*.vsto
+*.manifest
+
+# NuGet packages
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Logs
+*.log
+
+# Temporary files
+~$*
+*.tmp
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# JetBrains Rider
+.idea/
+
+# Backup & Report files from crashes
+*.bak
+*.orig
+*.mdmp
+
+# Publish Web Output
+*.Publish.xml
+*.pubxml
+*.publishproj
+
+# DotCover
+*.dotCover
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Rider
+.idea/
+
+# Windows Installer files
+*.msi
+*.cab
+*.msm
+*.msp
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# TFS
+$tf/
+
+# StyleCop
+StyleCopReport.xml
+
+# Others
+*.vspscc
+*.vssscc
+*.dbmdl
+*.bak
+*.sql
+*.cache
+*.db
+*.sdf
+*.sqlite
+*.mdf
+*.ldf
+*.ndf
+*.jfm
+*.class
+*.jar
+*.war
+*.ear
+*.swp
+*.swo
+*.sln.ide
+*.sln.iml
+*.sln.iws
